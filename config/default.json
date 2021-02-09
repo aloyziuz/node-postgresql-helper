@@ -1,0 +1,9 @@
+{
+    "dbConfig": {
+        "host": "localhost", 
+        "username": "postgres", 
+        "password": "Hasard33", 
+        "port": "5432", 
+        "db": "PayrollDB"
+    }
+}
