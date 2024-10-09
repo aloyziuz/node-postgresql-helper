@@ -1,6 +1,6 @@
 {
-  "name": "postgresql-helper",
-  "version": "2.0.0",
+  "name": "@aloysius-software-factory/postgresql-helper",
+  "version": "2.0.1",
   "description": "",
   "main": "PostgreSQLHelper.js",
   "scripts": {
